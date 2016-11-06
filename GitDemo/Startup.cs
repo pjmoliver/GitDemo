@@ -7,7 +7,7 @@ namespace GitDemo
     public partial class Startup
     {
         public void Configuration(IAppBuilder app)
-        {//Comentario de desarrollo
+        {//Comentario de desarrollo / Modificado en Master
             ConfigureAuth(app);
         }
     }
