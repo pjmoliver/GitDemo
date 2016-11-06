@@ -9,6 +9,7 @@ namespace GitDemo
         public void Configuration(IAppBuilder app)
         {//Comentario de desarrollo / Modificado en Master
             ConfigureAuth(app);
+            //Nuevo comentario
         }
     }
 }
